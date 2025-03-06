@@ -6,11 +6,25 @@
 2. Data Scientist/Engineer specializing in real-time data and IoT solutions.
 3. Machine Learning Scientist/Engineer driving A.I. innovation in advanced analytics.
 4. A.I. Scientist/Engineer at the forefront of Edge AI
+5. Expert in LLM, RAG and A.I. Agent systems
+6. Finetuning, MLOps, LLMOps
 
 ### Skill 
 
-Proficient in Python, R, SQL, Git, Scala, H2O, Spark, Hadoop, , TensorFlow, Keras, OpenAI, OpenCV, PyTorch, Pyro, PyMC3, Edward, SAS, Matlab, and C#
-Caffe, Natural Language Processing (NLP), Large Language Models (LLMs), Transformer architectures, LangChain, CUDA, Cloud Platforms (Azure, AWS, Databricks, Snowflake), Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), Object Detection, Model Deployment, Agile Environment
+Proficient in:
+Python, SQL, Git, PyTorch, TensorFlow, Keras, LangChain, LlamaIndex, OpenAI API, Hugging Face Transformers, Vertex AI, Databricks, Snowflake, Azure OpenAI, AWS Bedrock, Google Cloud AI, and CUDA.
+
+Specialized in:
+Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Transformer Architectures, Prompt Engineering, Fine-tuning & Parameter-efficient Tuning (PEFT), Quantization (GGUF, GPTQ), Embedding Models, Multi-modal Models, and Generative AI workflows.
+
+Experience with:
+NLP pipelines, Knowledge Graphs, Vector Databases (Pinecone, Weaviate, FAISS, Chroma), Model Deployment & Serving (Ray Serve, Triton Inference Server, FastAPI, Docker, Kubernetes), and MLOps pipelines for continuous model updates in production.
+
+Additional background:
+Computer Vision (OpenCV, object detection), Distributed Computing (Spark, Hadoop), Statistical Modeling (PyMC, Edward), and legacy analytics tools (SAS, Matlab, R, Scala).
+
+Working style:
+Agile environments with a focus on rapid prototyping, iterative experimentation, and close collaboration between data science, ML engineering, and product teams.
 
 ### Certificate: 
 Palo Alto Security license (Firewall)
