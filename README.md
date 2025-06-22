@@ -1,4 +1,4 @@
-# Jay Kim - Data Scientist/Machine Learning Engineer
+# Jay Kim - Data Scientist, AI/ML Engineer
 
 ### About me
 
