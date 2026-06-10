@@ -1,4 +1,6 @@
-# Jay Kim - AI/ML Engineer / Data Scientist
+# Jay Kim - AI/ML Engineer / Data Scientist   
+
+contact me at jay.kim@dslite.net
 
 ### About me
 
